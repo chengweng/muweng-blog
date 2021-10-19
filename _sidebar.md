@@ -1,4 +1,4 @@
-* [Java 学习](Java/)
-
-* [Go 学习](Go/)
+- [Go](Go/)
+- [Java](Java/)
+  - [java](Java/java.md)
 
