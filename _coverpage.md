@@ -1,8 +1,8 @@
-# 欢迎来到程序员雷小帅的博客
+# 欢迎来到新手muweng的博客
 
-- 公众号：爱笑的架构师
-- B站: 程序员雷小帅
+- 公众号：it分享资源
 
-[Gitee](http://coderleixiaoshuai.gitee.io/java-eight-part/#/)
-[Get Started](#leixiaoshuai-blog)
+
+[Github](https://chengweng.github.io/muweng-blog/#/)
+[Get Started](#muweng-blog)
 
